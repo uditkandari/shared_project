@@ -14,4 +14,36 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>html task/about us.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/about us.html</location>
+		</link>
+		<link>
+			<name>src/com/htmltask/about us.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/about us.html</location>
+		</link>
+		<link>
+			<name>src/com/htmltask/aboutus.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/aboutus.html</location>
+		</link>
+		<link>
+			<name>src/com/htmltask/contactus.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/contactus.html</location>
+		</link>
+		<link>
+			<name>src/com/htmltask/front page.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/front page.html</location>
+		</link>
+		<link>
+			<name>src/com/htmltask/registration page.html</name>
+			<type>1</type>
+			<location>F:/html class practice/day 19 assignment/registration page.html</location>
+		</link>
+	</linkedResources>
 </projectDescription>
