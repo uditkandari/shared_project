@@ -6,5 +6,12 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="day9"/>
+	<classpathentry kind="src" path="day10"/>
+	<classpathentry kind="src" path="day11"/>
+	<classpathentry kind="src" path="day12"/>
+	<classpathentry kind="src" path="day21"/>
+	<classpathentry kind="src" path="day22"/>
+	<classpathentry kind="src" path="day23"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

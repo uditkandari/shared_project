@@ -1,0 +1,28 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+<meta charset="ISO-8859-1">  
+<title>Insert title here</title>  
+</head>  
+<body>  
+  
+<h1>Add New student</h1>  
+<form action="SaveServlet" method="post">   
+Name:<input type="text" name="name"/><br> 
+Password:<input type="password" name="password"/> <br>
+Email:<input type="email" name="email"/><br>
+>gender: 
+<select name="gender" style="width:150px">  
+<option>Male</option>  
+<option>Female</option>  
+<option>Other</option>  
+</select>  
+<input type="submit" value="Save Student"/>
+
+</form>  
+  
+<br/>  
+<a href="ViewServlet">view students</a>  
+  
+</body>  
+</html>
